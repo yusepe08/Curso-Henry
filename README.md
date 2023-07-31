@@ -1,2 +1,1 @@
-# Curso-Henry
-Este es un repositorio de prueba curso Henry modulo 2
+esto es una prueba de crear repositorio y clonarlo
